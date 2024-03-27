@@ -10,6 +10,7 @@ Use notebooks in the notebooks/ directory to preprocess data, perform chunking, 
 
 # Semantic Search Pipeline:
 
+https://github.com/rajuaiml777/Wikipedia-Semantic-Search-Pipeline/blob/main/data/images/semantic_search.png
 
 # Dependencies
 
