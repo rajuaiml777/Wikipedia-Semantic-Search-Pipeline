@@ -4,6 +4,19 @@
 
 This project involves implementing chunking, generating embeddings, and performing semantic search on Wikipedia pages. The goal is to extract meaningful chunks of information, create embeddings for these chunks, and enable efficient semantic search functionalities.
 
+
+# Installation
+
+Clone the repository:
+
+git clone https://github.com/rajuaiml777/Wikipedia-Semantic-Search-Pipeline.git
+
+Navigate to the project directory: cd your_repository
+
+
+Install the required dependencies using pip: pip install -r requirements.txt
+
+
 ## Notebooks:
 
 Use notebooks in the notebooks/ directory to preprocess data, perform chunking, generate embeddings, and implement semantic search.
