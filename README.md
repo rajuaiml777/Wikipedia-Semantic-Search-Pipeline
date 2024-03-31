@@ -35,8 +35,9 @@ To get started with this project:
 ```
 cd Wikipedia-Semantic-Search-Pipeline
 ```
-3. Explore the provided notebooks to understand the workflow and implement semantic search on Wikipedia pages.
+3. **Explore the provided notebooks to understand the workflow and implement semantic search on Wikipedia pages.**
 
 ## Acknowledgments
+
 This project acknowledges the developers and contributors of the Python libraries used, without whom this project would not have been possible.
    
