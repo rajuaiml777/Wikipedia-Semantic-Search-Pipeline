@@ -1,44 +1,42 @@
 # Chunking, Embeddings & Semantic Search on Wikipedia Pages
 
-## Overview
-
 This project involves implementing chunking, generating embeddings, and performing semantic search on Wikipedia pages. The goal is to extract meaningful chunks of information, create embeddings for these chunks, and enable efficient semantic search functionalities.
-
-
-# Installation
-
-Clone the repository:
-
-git clone https://github.com/rajuaiml777/Wikipedia-Semantic-Search-Pipeline.git
-
-Navigate to the project directory: cd your_repository
-
-
-Install the required dependencies using pip: pip install -r requirements.txt
-
-
-## Notebooks:
-
-Use notebooks in the notebooks/ directory to preprocess data, perform chunking, generate embeddings, and implement semantic search.
-
 
 ![Semantic Search Pipeline](https://github.com/rajuaiml777/Wikipedia-Semantic-Search-Pipeline/blob/main/data/images/semantic_search.png)
 
+## Overview
 
-# Dependencies
+### Objective
+
+The objective of this project is to demonstrate the application of chunking, embeddings, and semantic search techniques on Wikipedia pages to facilitate efficient information retrieval.
+
+## Notebooks
+
+Explore the notebooks in the `notebooks/` directory to preprocess data, perform chunking, generate embeddings, and implement semantic search.
+
+## Dependencies
 
 Ensure you have the following Python libraries installed:
 
-numpy
+- **numpy**
+- **wikipedia-api**
+- **pandas**
+- **sentence-transformers**
 
-wikipedia-api
+## Getting Started
 
-pandas
+To get started with this project:
 
-sentence-transformers
+1. **Clone the repository:**
+   ```
+   git clone https://github.com/rajuaiml777/Wikipedia-Semantic-Search-Pipeline.git
+   ```
+2. **Navigate to the project directory:**
+```
+cd Wikipedia-Semantic-Search-Pipeline
+```
+3. Explore the provided notebooks to understand the workflow and implement semantic search on Wikipedia pages.
 
-# Acknowledgments
-
-This project aims to demonstrate the application of chunking, embeddings, and semantic search techniques on Wikipedia pages.
-Special thanks to the developers and contributors of the Python libraries used in this project.
-
+## Acknowledgments
+This project acknowledges the developers and contributors of the Python libraries used, without whom this project would not have been possible.
+   
